@@ -1,3 +1,1 @@
-print("Alikh chert")
-print("adruigvh")
-drjbvnsreg
+cfg vftyhgbn 
